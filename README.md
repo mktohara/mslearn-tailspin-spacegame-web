@@ -1,4 +1,4 @@
-# updated by mktohara
+# updated
 
 # Contributing
 
